@@ -2,7 +2,7 @@
 
 <p>Aqui aprendi a me comunicar com a api do TMDB (The Movie Database), e pegar a lista de filmes que a api retorna, nesse caso, uma função foi criada e retornamos um array com vários objetos, cada objeto é um item da categoria, possui um slug, um título e a lista de filmes. Por último aprendi a renderizar essa lista com jsx.</p>
 
-<img src="https://github.com/d8web/Pizza-System-Next-JS/blob/master/public/img/pizza.gif"/>
+<img src="https://github.com/d8web/netflix-clone/blob/master/public/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
